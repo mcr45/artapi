@@ -5,7 +5,9 @@
   </a>
 </p>
 
-> Using Api to retrieve an image that match a query
+> Using Api to retrieve an image that match a query with an art picture from the api.
+
+![Screenshot](art.png)
 
 ## Author
 
@@ -18,4 +20,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
